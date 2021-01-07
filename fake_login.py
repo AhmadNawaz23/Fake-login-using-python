@@ -24,7 +24,7 @@ if user == username and ask_password  == password:
 elif user != username:
   print("incorrect username")
 
-elif Pass != password:
+elif ask_password != password:
   print("incorrect password")
 
 else:
