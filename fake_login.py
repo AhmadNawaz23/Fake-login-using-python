@@ -9,7 +9,7 @@ user = input("User: ")
 ask_password = input("Password: ")
 
 
-if user == username and Pass == password:
+if user == username and ask_password  == password:
   time.sleep(1)
   print("Please wait")
   time.sleep(2)
