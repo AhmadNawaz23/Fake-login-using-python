@@ -1,8 +1,8 @@
 import time
 
 
-username = 'AhmadNawaz'
-password = 'cattac321'
+username = 'Mr.join'
+password = 'secret-password'
 
 
 user = input("User: ")
