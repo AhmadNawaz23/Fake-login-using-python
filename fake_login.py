@@ -6,7 +6,7 @@ password = 'secret-password'
 
 
 user = input("User: ")
-Pass = input("Password: ")
+ask_password = input("Password: ")
 
 
 if user == username and Pass == password:
